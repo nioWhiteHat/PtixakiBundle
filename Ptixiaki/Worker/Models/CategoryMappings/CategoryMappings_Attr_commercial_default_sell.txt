@@ -1,0 +1,112 @@
+SubType,building,0
+SubType,craft_space,1
+SubType,exhibition_space,2
+SubType,industrial,3
+SubType,office,4
+SubType,storage,5
+SubType,store,6
+AdminName,Μητροπολιτική Ενότητα Θεσσαλονίκης,0
+AdminName,Περιφερειακή Ενότητα Άνδρου,1
+AdminName,Περιφερειακή Ενότητα Άρτας,2
+AdminName,Περιφερειακή Ενότητα Έβρου,3
+AdminName,Περιφερειακή Ενότητα Αιτωλοακαρνανίας,4
+AdminName,Περιφερειακή Ενότητα Ανατολικής Αττικής,5
+AdminName,Περιφερειακή Ενότητα Αργολίδος,6
+AdminName,Περιφερειακή Ενότητα Αρκαδίας,7
+AdminName,Περιφερειακή Ενότητα Αχαΐας,8
+AdminName,Περιφερειακή Ενότητα Βοιωτίας,9
+AdminName,Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών,10
+AdminName,Περιφερειακή Ενότητα Γρεβενών,11
+AdminName,Περιφερειακή Ενότητα Δράμας,12
+AdminName,Περιφερειακή Ενότητα Δυτικής Αττικής,13
+AdminName,Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών,14
+AdminName,Περιφερειακή Ενότητα Ευβοίας,15
+AdminName,Περιφερειακή Ενότητα Ευρυτανίας,16
+AdminName,Περιφερειακή Ενότητα Ζακύνθου,17
+AdminName,Περιφερειακή Ενότητα Ηλείας,18
+AdminName,Περιφερειακή Ενότητα Ημαθίας,19
+AdminName,Περιφερειακή Ενότητα Ηρακλείου,20
+AdminName,Περιφερειακή Ενότητα Θάσου,21
+AdminName,Περιφερειακή Ενότητα Θήρας,22
+AdminName,Περιφερειακή Ενότητα Θεσπρωτίας,23
+AdminName,Περιφερειακή Ενότητα Ιθάκης,24
+AdminName,Περιφερειακή Ενότητα Ικαρίας,25
+AdminName,Περιφερειακή Ενότητα Ιωαννίνων,26
+AdminName,Περιφερειακή Ενότητα Κέας - Κύθνου,27
+AdminName,Περιφερειακή Ενότητα Κέρκυρας,28
+AdminName,Περιφερειακή Ενότητα Καβάλας,29
+AdminName,Περιφερειακή Ενότητα Καλύμνου,30
+AdminName,Περιφερειακή Ενότητα Καρδίτσας,31
+AdminName,Περιφερειακή Ενότητα Καρπάθου-Ηρωικής Νήσου Κάσου,32
+AdminName,Περιφερειακή Ενότητα Καστοριάς,33
+AdminName,Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών,34
+AdminName,Περιφερειακή Ενότητα Κεφαλληνίας,35
+AdminName,Περιφερειακή Ενότητα Κιλκίς,36
+AdminName,Περιφερειακή Ενότητα Κοζάνης,37
+AdminName,Περιφερειακή Ενότητα Κορινθίας,38
+AdminName,Περιφερειακή Ενότητα Κω,39
+AdminName,Περιφερειακή Ενότητα Λάρισας,40
+AdminName,Περιφερειακή Ενότητα Λέσβου,41
+AdminName,Περιφερειακή Ενότητα Λήμνου,42
+AdminName,Περιφερειακή Ενότητα Λακωνίας,43
+AdminName,Περιφερειακή Ενότητα Λασιθίου,44
+AdminName,Περιφερειακή Ενότητα Λευκάδας,45
+AdminName,Περιφερειακή Ενότητα Μήλου,46
+AdminName,Περιφερειακή Ενότητα Μαγνησίας,47
+AdminName,Περιφερειακή Ενότητα Μεσσηνίας,48
+AdminName,Περιφερειακή Ενότητα Μυκόνου,49
+AdminName,Περιφερειακή Ενότητα Νάξου,50
+AdminName,Περιφερειακή Ενότητα Νήσων,51
+AdminName,Περιφερειακή Ενότητα Νοτίου Τομέα Αθηνών,52
+AdminName,Περιφερειακή Ενότητα Ξάνθης,53
+AdminName,Περιφερειακή Ενότητα Πάρου,54
+AdminName,Περιφερειακή Ενότητα Πέλλας,55
+AdminName,Περιφερειακή Ενότητα Πειραιώς,56
+AdminName,Περιφερειακή Ενότητα Πιερίας,57
+AdminName,Περιφερειακή Ενότητα Πρέβεζας,58
+AdminName,Περιφερειακή Ενότητα Ρεθύμνης,59
+AdminName,Περιφερειακή Ενότητα Ροδόπης,60
+AdminName,Περιφερειακή Ενότητα Ρόδου,61
+AdminName,Περιφερειακή Ενότητα Σάμου,62
+AdminName,Περιφερειακή Ενότητα Σερρών,63
+AdminName,Περιφερειακή Ενότητα Σποράδων,64
+AdminName,Περιφερειακή Ενότητα Σύρου,65
+AdminName,Περιφερειακή Ενότητα Τήνου,66
+AdminName,Περιφερειακή Ενότητα Τρικάλων,67
+AdminName,Περιφερειακή Ενότητα Φθιώτιδας,68
+AdminName,Περιφερειακή Ενότητα Φλώρινας,69
+AdminName,Περιφερειακή Ενότητα Φωκίδας,70
+AdminName,Περιφερειακή Ενότητα Χίου,71
+AdminName,Περιφερειακή Ενότητα Χαλκιδικής,72
+AdminName,Περιφερειακή Ενότητα Χανίων,73
+HeatType,Unknown,0
+HeatType,autonomous_central,1
+HeatType,autonomous_individual,2
+HeatType,central_heating,3
+HeatType,no_heating,4
+HeatFrom,Unknown,0
+HeatFrom,electricity,1
+HeatFrom,natural_gas,2
+HeatFrom,oil,3
+HeatFrom,pellet,4
+EnergyPerformance,A,0
+EnergyPerformance,A+,1
+EnergyPerformance,B,2
+EnergyPerformance,B+,3
+EnergyPerformance,C,4
+EnergyPerformance,D,5
+EnergyPerformance,E,6
+EnergyPerformance,F,7
+EnergyPerformance,G,8
+EnergyPerformance,Unknown,9
+PowerSupply,Unknown,0
+PowerSupply,industrial_power,1
+PowerSupply,industrial_power,single_phase,three_phase,2
+PowerSupply,industrial_power,three_phase,3
+PowerSupply,industrial_power,three_phase,single_phase,4
+PowerSupply,single_phase,5
+PowerSupply,single_phase,industrial_power,6
+PowerSupply,single_phase,three_phase,7
+PowerSupply,three_phase,8
+PowerSupply,three_phase,industrial_power,9
+PowerSupply,three_phase,single_phase,10

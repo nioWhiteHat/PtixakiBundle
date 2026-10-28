@@ -1,0 +1,178 @@
+SubType,apartment,0
+SubType,detached_house,1
+SubType,maisonette,2
+AdminName,Μητροπολιτική Ενότητα Θεσσαλονίκης,0
+AdminName,Περιφερειακή Ενότητα Άνδρου,1
+AdminName,Περιφερειακή Ενότητα Άρτας,2
+AdminName,Περιφερειακή Ενότητα Έβρου,3
+AdminName,Περιφερειακή Ενότητα Αιτωλοακαρνανίας,4
+AdminName,Περιφερειακή Ενότητα Ανατολικής Αττικής,5
+AdminName,Περιφερειακή Ενότητα Αργολίδος,6
+AdminName,Περιφερειακή Ενότητα Αρκαδίας,7
+AdminName,Περιφερειακή Ενότητα Αχαΐας,8
+AdminName,Περιφερειακή Ενότητα Βοιωτίας,9
+AdminName,Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών,10
+AdminName,Περιφερειακή Ενότητα Γρεβενών,11
+AdminName,Περιφερειακή Ενότητα Δράμας,12
+AdminName,Περιφερειακή Ενότητα Δυτικής Αττικής,13
+AdminName,Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών,14
+AdminName,Περιφερειακή Ενότητα Ευβοίας,15
+AdminName,Περιφερειακή Ενότητα Ευρυτανίας,16
+AdminName,Περιφερειακή Ενότητα Ζακύνθου,17
+AdminName,Περιφερειακή Ενότητα Ηλείας,18
+AdminName,Περιφερειακή Ενότητα Ημαθίας,19
+AdminName,Περιφερειακή Ενότητα Ηρακλείου,20
+AdminName,Περιφερειακή Ενότητα Θάσου,21
+AdminName,Περιφερειακή Ενότητα Θήρας,22
+AdminName,Περιφερειακή Ενότητα Θεσπρωτίας,23
+AdminName,Περιφερειακή Ενότητα Ιθάκης,24
+AdminName,Περιφερειακή Ενότητα Ικαρίας,25
+AdminName,Περιφερειακή Ενότητα Ιωαννίνων,26
+AdminName,Περιφερειακή Ενότητα Κέας - Κύθνου,27
+AdminName,Περιφερειακή Ενότητα Κέρκυρας,28
+AdminName,Περιφερειακή Ενότητα Καβάλας,29
+AdminName,Περιφερειακή Ενότητα Καλύμνου,30
+AdminName,Περιφερειακή Ενότητα Καρδίτσας,31
+AdminName,Περιφερειακή Ενότητα Καρπάθου-Ηρωικής Νήσου Κάσου,32
+AdminName,Περιφερειακή Ενότητα Καστοριάς,33
+AdminName,Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών,34
+AdminName,Περιφερειακή Ενότητα Κεφαλληνίας,35
+AdminName,Περιφερειακή Ενότητα Κιλκίς,36
+AdminName,Περιφερειακή Ενότητα Κοζάνης,37
+AdminName,Περιφερειακή Ενότητα Κορινθίας,38
+AdminName,Περιφερειακή Ενότητα Κω,39
+AdminName,Περιφερειακή Ενότητα Λάρισας,40
+AdminName,Περιφερειακή Ενότητα Λέσβου,41
+AdminName,Περιφερειακή Ενότητα Λήμνου,42
+AdminName,Περιφερειακή Ενότητα Λακωνίας,43
+AdminName,Περιφερειακή Ενότητα Λασιθίου,44
+AdminName,Περιφερειακή Ενότητα Λευκάδας,45
+AdminName,Περιφερειακή Ενότητα Μήλου,46
+AdminName,Περιφερειακή Ενότητα Μαγνησίας,47
+AdminName,Περιφερειακή Ενότητα Μεσσηνίας,48
+AdminName,Περιφερειακή Ενότητα Μυκόνου,49
+AdminName,Περιφερειακή Ενότητα Νάξου,50
+AdminName,Περιφερειακή Ενότητα Νήσων,51
+AdminName,Περιφερειακή Ενότητα Νοτίου Τομέα Αθηνών,52
+AdminName,Περιφερειακή Ενότητα Ξάνθης,53
+AdminName,Περιφερειακή Ενότητα Πάρου,54
+AdminName,Περιφερειακή Ενότητα Πέλλας,55
+AdminName,Περιφερειακή Ενότητα Πειραιώς,56
+AdminName,Περιφερειακή Ενότητα Πιερίας,57
+AdminName,Περιφερειακή Ενότητα Πρέβεζας,58
+AdminName,Περιφερειακή Ενότητα Ρεθύμνης,59
+AdminName,Περιφερειακή Ενότητα Ροδόπης,60
+AdminName,Περιφερειακή Ενότητα Ρόδου,61
+AdminName,Περιφερειακή Ενότητα Σάμου,62
+AdminName,Περιφερειακή Ενότητα Σερρών,63
+AdminName,Περιφερειακή Ενότητα Σποράδων,64
+AdminName,Περιφερειακή Ενότητα Σύρου,65
+AdminName,Περιφερειακή Ενότητα Τήνου,66
+AdminName,Περιφερειακή Ενότητα Τρικάλων,67
+AdminName,Περιφερειακή Ενότητα Φθιώτιδας,68
+AdminName,Περιφερειακή Ενότητα Φλώρινας,69
+AdminName,Περιφερειακή Ενότητα Φωκίδας,70
+AdminName,Περιφερειακή Ενότητα Χίου,71
+AdminName,Περιφερειακή Ενότητα Χαλκιδικής,72
+AdminName,Περιφερειακή Ενότητα Χανίων,73
+HeatType,Unknown,0
+HeatType,autonomous,1
+HeatType,autonomous_central,2
+HeatType,autonomous_individual,3
+HeatType,central_heating,4
+HeatType,no_heating,5
+HeatFrom,Unknown,0
+HeatFrom,biomass,1
+HeatFrom,electricity,2
+HeatFrom,fan_coil,3
+HeatFrom,"fan_coil,heat_pump",4
+HeatFrom,"fan_coil,heat_pump,photovoltaic",5
+HeatFrom,"fan_coil,heat_pump,underfloor",6
+HeatFrom,"fan_coil,photovoltaic",7
+HeatFrom,"fan_coil,photovoltaic,heat_pump",8
+HeatFrom,"fan_coil,photovoltaic,underfloor",9
+HeatFrom,"fan_coil,underfloor",10
+HeatFrom,"fan_coil,underfloor,heat_pump",11
+HeatFrom,gas,12
+HeatFrom,geothermal,13
+HeatFrom,heat_pump,14
+HeatFrom,"heat_pump,fan_coil",15
+HeatFrom,"heat_pump,fan_coil,photovoltaic",16
+HeatFrom,"heat_pump,fan_coil,photovoltaic,underfloor",17
+HeatFrom,"heat_pump,fan_coil,radiator",18
+HeatFrom,"heat_pump,fan_coil,underfloor",19
+HeatFrom,"heat_pump,photovoltaic",20
+HeatFrom,"heat_pump,photovoltaic,fan_coil",21
+HeatFrom,"heat_pump,photovoltaic,underfloor",22
+HeatFrom,"heat_pump,radiator",23
+HeatFrom,"heat_pump,radiator,underfloor",24
+HeatFrom,"heat_pump,thermal_accumulators",25
+HeatFrom,"heat_pump,thermal_accumulators,fan_coil",26
+HeatFrom,"heat_pump,underfloor",27
+HeatFrom,"heat_pump,underfloor,fan_coil",28
+HeatFrom,"heat_pump,underfloor,photovoltaic",29
+HeatFrom,lpg,30
+HeatFrom,natural_gas,31
+HeatFrom,oil,32
+HeatFrom,other,33
+HeatFrom,photovoltaic,34
+HeatFrom,"photovoltaic,fan_coil",35
+HeatFrom,"photovoltaic,fan_coil,heat_pump",36
+HeatFrom,"photovoltaic,fan_coil,heat_pump,underfloor",37
+HeatFrom,"photovoltaic,heat_pump",38
+HeatFrom,"photovoltaic,heat_pump,fan_coil",39
+HeatFrom,"photovoltaic,heat_pump,fan_coil,underfloor",40
+HeatFrom,"photovoltaic,heat_pump,radiator",41
+HeatFrom,"photovoltaic,heat_pump,thermal_accumulators",42
+HeatFrom,"photovoltaic,heat_pump,underfloor",43
+HeatFrom,"photovoltaic,radiator",44
+HeatFrom,"photovoltaic,thermal_accumulators",45
+HeatFrom,"photovoltaic,underfloor",46
+HeatFrom,"photovoltaic,underfloor,heat_pump",47
+HeatFrom,radiator,48
+HeatFrom,"radiator,fan_coil",49
+HeatFrom,"radiator,heat_pump",50
+HeatFrom,"radiator,heat_pump,fan_coil",51
+HeatFrom,"radiator,photovoltaic",52
+HeatFrom,"radiator,photovoltaic,heat_pump",53
+HeatFrom,"radiator,photovoltaic,heat_pump,fan_coil",54
+HeatFrom,"radiator,thermal_accumulators",55
+HeatFrom,"radiator,underfloor",56
+HeatFrom,"radiator,underfloor,fan_coil",57
+HeatFrom,"radiator,underfloor,heat_pump",58
+HeatFrom,"radiator,underfloor,photovoltaic,heat_pump",59
+HeatFrom,thermal_accumulators,60
+HeatFrom,"thermal_accumulators,heat_pump",61
+HeatFrom,"thermal_accumulators,radiator",62
+HeatFrom,"thermal_accumulators,underfloor",63
+HeatFrom,underfloor,64
+HeatFrom,"underfloor,fan_coil",65
+HeatFrom,"underfloor,fan_coil,heat_pump",66
+HeatFrom,"underfloor,fan_coil,heat_pump,photovoltaic",67
+HeatFrom,"underfloor,fan_coil,photovoltaic",68
+HeatFrom,"underfloor,fan_coil,photovoltaic,heat_pump",69
+HeatFrom,"underfloor,heat_pump",70
+HeatFrom,"underfloor,heat_pump,fan_coil",71
+HeatFrom,"underfloor,heat_pump,photovoltaic",72
+HeatFrom,"underfloor,photovoltaic",73
+HeatFrom,"underfloor,photovoltaic,fan_coil",74
+HeatFrom,"underfloor,photovoltaic,heat_pump",75
+HeatFrom,"underfloor,photovoltaic,heat_pump,fan_coil",76
+HeatFrom,"underfloor,photovoltaic,thermal_accumulators",77
+HeatFrom,"underfloor,radiator",78
+HeatFrom,"underfloor,radiator,fan_coil",79
+HeatFrom,"underfloor,radiator,fan_coil,thermal_accumulators",80
+HeatFrom,"underfloor,radiator,heat_pump",81
+HeatFrom,"underfloor,radiator,heat_pump,fan_coil",82
+HeatFrom,"underfloor,radiator,photovoltaic",83
+HeatFrom,"underfloor,radiator,photovoltaic,fan_coil,heat_pump",84
+HeatFrom,"underfloor,radiator,photovoltaic,heat_pump",85
+HeatFrom,"underfloor,thermal_accumulators",86
+EnergyPerformance,A,0
+EnergyPerformance,A+,1
+EnergyPerformance,B,2
+EnergyPerformance,B+,3
+EnergyPerformance,C,4
+EnergyPerformance,D,5
+EnergyPerformance,E,6
+EnergyPerformance,Unknown,7

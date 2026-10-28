@@ -1,0 +1,37 @@
+AdminName,Μητροπολιτική Ενότητα Θεσσαλονίκης,0
+AdminName,Περιφερειακή Ενότητα Άνδρου,1
+AdminName,Περιφερειακή Ενότητα Ανατολικής Αττικής,2
+AdminName,Περιφερειακή Ενότητα Αχαΐας,3
+AdminName,Περιφερειακή Ενότητα Βορείου Τομέα Αθηνών,4
+AdminName,Περιφερειακή Ενότητα Δυτικής Αττικής,5
+AdminName,Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών,6
+AdminName,Περιφερειακή Ενότητα Ευβοίας,7
+AdminName,Περιφερειακή Ενότητα Ζακύνθου,8
+AdminName,Περιφερειακή Ενότητα Ηρακλείου,9
+AdminName,Περιφερειακή Ενότητα Θήρας,10
+AdminName,Περιφερειακή Ενότητα Ιωαννίνων,11
+AdminName,Περιφερειακή Ενότητα Καρδίτσας,12
+AdminName,Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών,13
+AdminName,Περιφερειακή Ενότητα Λασιθίου,14
+AdminName,Περιφερειακή Ενότητα Μαγνησίας,15
+AdminName,Περιφερειακή Ενότητα Μυκόνου,16
+AdminName,Περιφερειακή Ενότητα Νοτίου Τομέα Αθηνών,17
+AdminName,Περιφερειακή Ενότητα Πάρου,18
+AdminName,Περιφερειακή Ενότητα Πειραιώς,19
+AdminName,Περιφερειακή Ενότητα Ρόδου,20
+AdminName,Περιφερειακή Ενότητα Φθιώτιδας,21
+HeatType,Unknown,0
+HeatType,autonomous_central,1
+HeatType,autonomous_individual,2
+HeatType,central_heating,3
+HeatType,no_heating,4
+EnergyPerformance,A,0
+EnergyPerformance,A+,1
+EnergyPerformance,B,2
+EnergyPerformance,B+,3
+EnergyPerformance,C,4
+EnergyPerformance,D,5
+EnergyPerformance,E,6
+EnergyPerformance,F,7
+EnergyPerformance,G,8
+EnergyPerformance,Unknown,9

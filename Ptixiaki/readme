@@ -1,0 +1,6 @@
+
+price predictions:
+1 endpoint that takes multiple or 1 uids of properties and returns the price prediction.
+
+elo:
+1 endpoint that takes multiple
