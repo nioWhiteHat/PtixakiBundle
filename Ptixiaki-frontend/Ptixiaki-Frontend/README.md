@@ -204,12 +204,11 @@ combined sale/rent, asking-price and size filters, two non-overlapping 20-row pa
 matching overview/detail prices and scores, SHAP rendering, back navigation and
 the scrollable SVG-fallback list. The read-only Go database test also passed all
 six filters and pagination. Browse testing does not train models or change records.
-Earlier real Piraeus analysis verification is recorded in `PROJECT_MEMORY.md`.
 
 `npm run preview` serves the production build locally. This is a preview, not a
 production backend or deployment configuration. A deployed static frontend
 needs a same-origin reverse proxy for `/register/*`, `/User/*`, and `/analysis/*` to Go over an HTTPS origin.
-The auth/backend security issues documented in `PROJECT_MEMORY.md` still apply;
+The backend still requires authentication, authorization and secret-management hardening;
 this frontend does not make the existing backend deployment-ready.
 
 ## Source map

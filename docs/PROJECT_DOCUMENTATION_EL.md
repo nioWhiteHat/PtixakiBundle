@@ -624,4 +624,4 @@ python -m unittest -v test_explainability.py
 | Ptixiaki-frontend/Ptixiaki-Frontend/src | React σελίδες, components και HTTP contracts |
 | schema_dump.sql και Database/migrations | Σχήμα και προσθήκες persistence |
 
-Οι διαδρομές Worker και Backend του πίνακα είναι σχετικές προς το Ptixiaki. Για επιθεώρηση, το PROJECT_MEMORY.md λειτουργεί ως χάρτης, αλλά ο αντίστοιχος πηγαίος κώδικας παραμένει η τελική αναφορά. Τα node_modules, venv, dist, caches και παραγόμενα CSV/JSON/ONNX δεν αποτελούν πρώτου μέρους υλοποίηση που χρειάζεται να αναγνωστεί ως εφαρμογή.
+Οι διαδρομές Worker και Backend του πίνακα είναι σχετικές προς το Ptixiaki. Ο αντίστοιχος πηγαίος κώδικας παραμένει η τελική αναφορά. Τα node_modules, venv, dist, caches και παραγόμενα CSV/JSON/ONNX δεν αποτελούν πρώτου μέρους υλοποίηση που χρειάζεται να αναγνωστεί ως εφαρμογή.
