@@ -1,0 +1,141 @@
+.portfolio-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.portfolio-heading .properties-heading {
+  margin-bottom: 0;
+}
+.property-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  background: var(--copper);
+  border-color: var(--copper);
+  color: #202326;
+  font-weight: 650;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.property-primary:hover:not(:disabled) {
+  background: #f2c5a3;
+  color: #202326;
+}
+.add-property-form {
+  display: grid;
+  gap: 24px;
+}
+.add-property-form fieldset {
+  min-width: 0;
+  margin: 0;
+  padding: 24px;
+  border: 1px solid #35424f;
+  border-radius: 12px;
+  background: var(--panel);
+}
+.add-property-form legend {
+  color: #dfc3ac;
+  font-size: 15px;
+  padding: 0 8px;
+}
+.property-form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+.property-form-grid label {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  font-size: 13px;
+}
+.property-form-grid input,
+.property-form-grid select {
+  width: 100%;
+  min-height: 46px;
+  border: 1px solid #53606c;
+  border-radius: 7px;
+  background: #14212d;
+  color: #edf1f5;
+  padding: 10px 12px;
+  font: inherit;
+}
+.property-form-grid input:focus,
+.property-form-grid select:focus {
+  outline: 2px solid var(--copper);
+  outline-offset: 2px;
+}
+.property-form-grid label > span {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.7;
+}
+.property-form-wide {
+  grid-column: 1 / -1;
+}
+.property-form-checks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 28px;
+}
+.property-form-checks label {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  min-height: 32px;
+}
+.property-form-checks input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--copper);
+}
+.property-form-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.property-form-actions > a {
+  text-decoration: none;
+}
+.property-form-error {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 15px;
+  border: 1px solid #a57066;
+  border-radius: 8px;
+  padding: 18px;
+  color: #edb0a8;
+  font-size: 13px;
+  line-height: 1.7;
+}
+.property-form-error p {
+  width: 100%;
+}
+.property-form-error a {
+  color: #dfc3ac;
+}
+.add-property-form :disabled {
+  opacity: .65;
+}
+@media (max-width: 540px) {
+  .portfolio-heading {
+    flex-direction: column;
+    gap: 18px;
+  }
+  .property-form-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+  }
+  .add-property-form fieldset {
+    padding: 20px 16px;
+  }
+  .property-form-grid input,
+  .property-form-grid select {
+    font-size: 16px;
+  }
+}

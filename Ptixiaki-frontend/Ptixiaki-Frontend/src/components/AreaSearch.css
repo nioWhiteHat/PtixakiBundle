@@ -1,0 +1,77 @@
+.area-search {
+  flex: 1;
+  min-width: 0;
+  position: relative;
+}
+
+.area-search > label {
+  display: block;
+  font-size: 12px;
+  color: #bac9d6;
+  margin-bottom: 10px;
+}
+
+.area-search > input {
+  width: 100%;
+  min-height: 52px;
+  background: #182532;
+  border: 1px solid #475866;
+  border-radius: 9px;
+  color: #edf1f5;
+  padding: 14px 17px;
+  font-size: 14px;
+  text-overflow: ellipsis;
+}
+
+.area-search > input:focus {
+  outline: 2px solid var(--copper);
+  outline-offset: 2px;
+}
+
+.area-search > input::placeholder {
+  color: #9aabba;
+}
+
+.area-search > .panel-note {
+  margin-top: 10px;
+  font-size: 11px;
+}
+
+.area-suggestions {
+  position: absolute;
+  inset: 80px 0 auto;
+  z-index: 4;
+  list-style: none;
+  padding: 6px;
+  margin: 0;
+  border: 1px solid #526170;
+  border-radius: 10px;
+  background: #1c2b39;
+  box-shadow: 0 14px 35px #0005;
+  max-height: 340px;
+  overflow-y: auto;
+}
+
+.area-suggestions li {
+  padding: 13px;
+  font-size: 13px;
+  color: #d6e1e9;
+  line-height: 1.6;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.area-suggestions li:hover,
+.area-suggestions li[aria-selected="true"] {
+  background: #33414d;
+  color: var(--copper);
+}
+
+.area-error {
+  color: #edb0a8;
+  font-size: 12px;
+  margin-top: 14px;
+  line-height: 1.7;
+}
+
+.address-find-button { margin-top: 12px; }

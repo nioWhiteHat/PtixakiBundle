@@ -1,0 +1,54 @@
+.analysis-search-page { padding-top: 100px; }
+.analysis-search-form { display: flex; align-items: flex-start; gap: 16px; margin-top: 38px; }
+.analyse-button { margin-top: 24px; background: var(--copper); color: #202326; min-height: 52px; padding-inline: 27px; font-weight: 650; border-color: var(--copper); }
+.analyse-button:hover:not(:disabled) { background: #f2c5a3; }
+.property-button:disabled { opacity: .45; cursor: default; }
+.analysis-bounds { margin-top: 8px; font-size: 11px; overflow-wrap: anywhere; }
+.analysis-source { font-size: 10px; margin: 13px 0 28px; color: #90a4b5; }
+.analysis-results-heading { margin: 48px 0 22px; }
+.analysis-results-heading h2 { margin: 0; font-size: 23px; font-weight: 500; line-height: 1.5; overflow-wrap: anywhere; }
+.analysis-summary { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.analysis-summary dt { font-size: 11px; }
+.analysis-summary dd { font-size: 27px; }
+.analysis-transactions { display: flex; gap: 4px; border-bottom: 1px solid #344454; margin-top: 32px; }
+.analysis-transactions button { min-width: 110px; min-height: 47px; border: 0; border-bottom: 2px solid transparent; background: transparent; color: var(--muted); font-size: 14px; }
+.analysis-transactions button[aria-pressed="true"] { border-bottom-color: var(--copper); color: var(--copper); }
+.cluster-filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 26px 0 10px; }
+.cluster-filters button { display: flex; align-items: center; gap: 8px; background: #22313e; border: 1px solid #455565; border-radius: 6px; color: #b8c9d6; min-height: 36px; padding: 7px 10px; font-size: 11px; }
+.cluster-filters button[aria-pressed="true"] { border-color: var(--copper); color: #f1d3bc; }
+.cluster-filters button > span, .cluster-color { display: inline-block; width: 8px; height: 8px; border-radius: 50%; }
+.cluster-color { margin-right: 10px; }
+.cluster-plot { margin: 16px 0 28px; }
+.cluster-plot svg { display: block; width: 100%; height: auto; background: #14212d; border-radius: 9px; }
+.cluster-plot text { fill: #afc1cf; font-size: 11px; }
+.cluster-plot figcaption { font-size: 11px; color: var(--muted); line-height: 1.7; margin-top: 14px; }
+.cluster-stats { border-top: 1px solid #384858; margin-top: 30px; padding-top: 25px; }
+.cluster-stats h3 { margin: 0; font-weight: 550; font-size: 15px; }
+.cluster-extremes { border-top: 1px solid #354555; margin-top: 17px; padding-top: 15px; }
+.cluster-extremes summary { cursor: pointer; font-size: 12px; color: #c3d1dc; padding: 6px 0; }
+.cluster-extremes > .panel-note { margin-block: 18px; }
+.analysis-point-list { margin-top: 15px; }
+.analysis-point-table { white-space: nowrap; }
+.analysis-point-table td:first-child { font-size: 10px; text-align: left; }
+.analysis-pagination { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding-block: 15px; font-size: 11px; color: var(--muted); }
+.analysis-pagination > div { display: flex; gap: 8px; }
+.analysis-results .property-panel > .panel-note:last-child { margin-top: 22px; }
+.area-model-report > h3 { font-size: 17px; font-weight: 500; margin: 32px 0 12px; }
+.area-model-report > .property-table-wrap { margin-top: 18px; }
+.area-example { margin-top: 15px; padding: 18px; border: 1px solid #415363; border-radius: 8px; }
+.area-example summary { cursor: pointer; color: #e0c0a8; font-size: 12px; overflow-wrap: anywhere; }
+.area-example summary > span:last-child { display: block; margin-top: 8px; font-size: 11px; color: #b0c2d0; line-height: 1.8; }
+.area-example > .panel-note { margin-top: 16px; }
+.area-example .property-table-wrap { margin-top: 16px; }
+@media (max-width: 540px) {
+  .analysis-search-page { padding-top: 55px; }
+  .analysis-search-form { flex-direction: column; gap: 8px; }
+  .area-search { width: 100%; }
+  .area-search > input { font-size: 16px; }
+  .analyse-button { width: 100%; margin-top: 8px; }
+  .analysis-summary { grid-template-columns: 1fr; }
+  .analysis-pagination { flex-wrap: wrap; }
+  .cluster-plot svg { min-height: 170px; }
+  .cluster-plot text { font-size: 22px; }
+  .area-example { padding: 15px 12px; }
+}
